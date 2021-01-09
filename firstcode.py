@@ -33,4 +33,3 @@ customer_total_price = () # Insert Item Price in Parenthesis
 
 print(customer_item_description)
 print(customer_total_price)
-print("hello")
